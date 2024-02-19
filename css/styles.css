@@ -1,0 +1,12 @@
+body {
+    background-color: white;
+}
+.accent{
+    color: red;
+}
+.logo{
+    color: black;
+}
+.main-nav .accent{
+    color:green;
+}
